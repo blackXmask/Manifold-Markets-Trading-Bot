@@ -1,8 +1,17 @@
 # 🤖 Manifold Markets Trading Bot 
 
 A professional AI-powered trading bot for Manifold Markets, specifically targeting markets created by **MikhailTal**. Features a beautiful dark blue themed GUI built with Streamlit, advanced AI strategies, portfolio optimization, arbitrage detection, ensemble learning, backtesting, and real-time performance analytics.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f13edb5e-181f-44fb-9dc7-1e5200904c8f" alt="q1" width="720" />
+  <br>
+  <img src="https://github.com/user-attachments/assets/651b68df-a982-43f4-a8ad-c8a358f654c6" alt="q2" width="720" />
+  <br>
+  <img src="https://github.com/user-attachments/assets/339d446f-7849-4929-9a39-91b829e4085d" alt="q3" width="720" />
+</p>
+
 
 ## ✨ Features
+<img width="1332" height="71" alt="q4" src="https://github.com/user-attachments/assets/ecec4f73-7d46-4e2c-a599-5c13c3e43ad4" />
 
 ### 🎯 Core Trading Features
 - **Targeted Trading**: Automatically filters and trades only on markets created by MikhailTal
@@ -79,6 +88,13 @@ A professional AI-powered trading bot for Manifold Markets, specifically targeti
 4. Create a new API key
 
 ### 2. Configure Environment
+Insert the API Key/Token in input filed directly 
+
+
+<img width="254" height="363" alt="q5" src="https://github.com/user-attachments/assets/3cd63207-1d8a-4713-be4e-4f0e1a22ed6c" />
+
+
+Or
 
 Create a `.env` file in the project root:
 
