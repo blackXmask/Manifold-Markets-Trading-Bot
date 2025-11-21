@@ -1,4 +1,4 @@
-# 🤖 Manifold Markets Trading Bot 
+# Manifold Markets Trading Bot 
 
 A professional AI-powered trading bot for Manifold Markets, specifically targeting markets created by **MikhailTal**. Features a beautiful dark blue themed GUI built with Streamlit, advanced AI strategies, portfolio optimization, arbitrage detection, ensemble learning, backtesting, and real-time performance analytics.
 <p align="center">
